@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 width="64" height="64" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g id="icon-m-share-bluetooth_1_">
+		<linearGradient id="icon-m-share-mms_1_" gradientUnits="userSpaceOnUse" x1="5456.9619" y1="-3934.0405" x2="5392.9619" y2="-3870.0405" gradientTransform="matrix(4.489700e-011 -1 1 4.489700e-011 3934.0405 5456.9619)">
+		<stop  offset="0" style="stop-color:#00C8DE"/>
+		<stop  offset="1" style="stop-color:#1E87FF"/>
+	</linearGradient>
+	<polygon id="icon-m-share-mms_2_" style="fill:url(#icon-m-share-mms_1_);" points="64,0 64,64 0,64 0,0"/>
+	<g id="icon-m-share-bluetooth_9_">
+		<rect id="icon-m-share-bluetooth_10_" x="0" y="0" style="opacity:0;fill:#FFFFFF;" width="64" height="64"/>
+		<path style="fill:#FFFFFF;" d="M14.082,46.166c-0.301,0-0.599-0.136-0.796-0.394c-0.335-0.438-0.251-1.066,0.188-1.401
+			l16.858-12.866V8.108c0-1.034,0.411-1.83,1.126-2.185c0.716-0.355,1.597-0.197,2.419,0.43l13.373,10.205
+			c0.759,0.579,1.194,1.409,1.194,2.276c0,0.867-0.436,1.696-1.194,2.275L31.986,32.759c-0.031,0.027-0.063,0.051-0.097,0.074
+			L14.688,45.961C14.506,46.1,14.293,46.166,14.082,46.166z M32.371,7.766c-0.02,0.072-0.038,0.185-0.038,0.343v21.871L46.039,19.52
+			c0.263-0.2,0.407-0.443,0.407-0.685s-0.145-0.485-0.407-0.686L32.666,7.944C32.54,7.848,32.439,7.794,32.371,7.766z"/>
+		<path style="fill:#FFFFFF;" d="M32.266,58.266c-0.283,0-0.555-0.062-0.807-0.186c-0.715-0.354-1.126-1.15-1.126-2.185V32.494
+			L13.474,19.625c-0.439-0.335-0.523-0.963-0.188-1.402c0.334-0.439,0.961-0.523,1.402-0.188l32.565,24.857
+			c0.759,0.579,1.193,1.408,1.193,2.275s-0.436,1.696-1.194,2.275L33.879,57.65C33.346,58.057,32.788,58.266,32.266,58.266z
+			 M32.333,34.021v21.875c0,0.158,0.018,0.271,0.038,0.343c0.069-0.028,0.169-0.082,0.295-0.178l13.373-10.207
+			c0.263-0.2,0.407-0.444,0.407-0.686c0-0.242-0.145-0.485-0.407-0.686L32.333,34.021z"/>
+	</g>
+	<rect id="icon-m-share-bluetooth_8_" x="0" y="0" style="opacity:0;fill:#FFFFFF;" width="64" height="64"/>
+</g>
+</svg>

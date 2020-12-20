@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64" height="64" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g id="icon-m-font-size">
+	<g id="icon-m-charging_6_">
+		<path style="fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;" d="M20.854,33.918"/>
+		<g style="opacity:0.6;">
+			<path style="fill:#FFFFFF;" d="M49.729,54H14.272C11.917,54,10,52.083,10,49.728V14.272C10,11.917,11.917,10,14.272,10h35.457     C52.084,10,54,11.917,54,14.272v35.455C54,52.083,52.084,54,49.729,54z M14.272,12C13.019,12,12,13.02,12,14.272v35.455     C12,50.98,13.019,52,14.272,52h35.457C50.981,52,52,50.98,52,49.728V14.272C52,13.02,50.981,12,49.729,12H14.272z"/>
+		</g>
+	</g>
+	<g>
+		<path style="fill:#FFFFFF;" d="M29.897,19.58h-9.679v-3.495h23.564v3.495h-9.729v28.336h-4.157V19.58z"/>
+	</g>
+	<g>
+		<rect x="24.64" y="45.118" style="fill:#FFFFFF;" width="14.92" height="3.379"/>
+		
+			<rect x="41.453" y="18.313" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 64.9942 -25.3689)" style="fill:#FFFFFF;" width="7.457" height="3"/>
+		
+			<rect x="15.09" y="18.313" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 38.6311 0.9942)" style="fill:#FFFFFF;" width="7.457" height="3"/>
+	</g>
+	<rect id="icon-m-font-size_1_" style="opacity:0;fill:#FFFFFF;" width="64" height="64"/>
+</g>
+</svg>

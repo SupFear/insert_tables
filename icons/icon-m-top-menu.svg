@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 width="64" height="64" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g id="icon-m-top-menu_x2B_1">
+	<rect id="icon-m-top-menu_x2B_1_1_" style="opacity:0;fill:#FFFFFF;" width="64" height="64"/>
+	<g>
+		<rect x="15.997" y="44.822" style="opacity:0.6;fill:#FFFFFF;" width="32.002" height="2"/>
+		<g style="opacity:0.6;">
+			<path style="fill:#FFFFFF;" d="M44.839,57H19.161C16.315,57,14,54.685,14,51.839V12.161C14,9.315,16.315,7,19.161,7h25.678
+				C47.685,7,50,9.315,50,12.161v39.678C50,54.685,47.685,57,44.839,57z M19.161,9C17.418,9,16,10.418,16,12.161v39.678
+				C16,53.582,17.418,55,19.161,55h25.678C46.582,55,48,53.582,48,51.839V12.161C48,10.418,46.582,9,44.839,9H19.161z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path style="fill:none;stroke:#FFFFFF;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;" d="M40.657,18.213"/>
+			<path style="fill:none;stroke:#FFFFFF;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;" d="M30.996,18.213"/>
+		</g>
+		<path style="fill:#FFFFFF;" d="M41,32.46c0,1.65-1.35,3-3,3l0,0c-1.65,0-3-1.35-3-3l0,0c0-1.65,1.35-3,3-3l0,0
+			C39.65,29.46,41,30.81,41,32.46L41,32.46z"/>
+		<g style="opacity:0.6;">
+			<path style="fill:#FFFFFF;" d="M41,20.46c0,1.65-1.35,3-3,3l0,0c-1.65,0-3-1.35-3-3l0,0c0-1.65,1.35-3,3-3l0,0
+				C39.65,17.46,41,18.81,41,20.46L41,20.46z"/>
+		</g>
+		<g>
+			<g style="opacity:0.6;">
+				<path style="fill:#FFFFFF;" d="M29,32.46c0,1.65-1.35,3-3,3l0,0c-1.65,0-3-1.35-3-3l0,0c0-1.65,1.35-3,3-3l0,0
+					C27.65,29.46,29,30.81,29,32.46L29,32.46z"/>
+			</g>
+			<path style="fill:#FFFFFF;" d="M29,20.46c0,1.65-1.35,3-3,3l0,0c-1.65,0-3-1.35-3-3l0,0c0-1.65,1.35-3,3-3l0,0
+				C27.65,17.46,29,18.81,29,20.46L29,20.46z"/>
+		</g>
+		<g>
+			<path style="fill:none;stroke:#FFFFFF;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;" d="M39.23,25.553"/>
+			<path style="fill:none;stroke:#FFFFFF;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;" d="M29.568,25.553"/>
+		</g>
+	</g>
+</g>
+</svg>
