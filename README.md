@@ -40,9 +40,15 @@ optional arguments:
 
 ### Example
 
-Render HTML page with template HTML index.html and output file rendered.html with 
-icons in folder ./icons with all prefixes: "icon-cover", "icon-s", "icon-m", "icon-l"
+Render HTML page with default HTML template template.html and output file rendered.html with 
+icons in the folder ./icons with all prefixes: "icon-cover", "icon-s", "icon-m", "icon-l"
 as default.
+
+```console
+$ python3 insert_tables.py
+```
+
+To render HTML file with specific template, output file and icons folder use flags: -t, -o and -i:
 
 ```console
 $ python3 insert_tables.py -t template.html -o rendered.html -i icons
