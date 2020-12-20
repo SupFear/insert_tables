@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g id="icon-l-flashlight">
+	<rect id="icon-l-flashlight_1_" style="opacity:0;fill:#FFFFFF;" width="64" height="64"/>
+	<g>
+		<path style="fill:#FFFFFF;" d="M32,26.796c-6.271,0-11-4.562-11-10.61v-3.517C21,9.357,23.211,9,24.162,9h15.676
+			C40.789,9,43,9.357,43,12.669v3.517C43,22.235,38.271,26.796,32,26.796z M24.162,11C23.699,11,23,11,23,12.669v3.517
+			c0,4.989,3.785,8.61,9,8.61s9-3.621,9-8.61v-3.517C41,11,40.301,11,39.838,11H24.162z"/>
+		<path style="fill:#FFFFFF;" d="M34.533,56h-5.067C27.555,56,26,54.444,26,52.533V25.183h2v27.351C28,53.342,28.658,54,29.466,54
+			h5.067C35.342,54,36,53.342,36,52.533V25h2v27.533C38,54.444,36.444,56,34.533,56z"/>
+		<circle style="opacity:0.6;fill:#FFFFFF;" cx="32" cy="33" r="2.5"/>
+	</g>
+</g>
+</svg>

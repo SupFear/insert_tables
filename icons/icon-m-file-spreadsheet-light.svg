@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g id="icon-m-filemanager-spreadsheet_2_">
+	<rect id="icon-m-filemanager-spreadsheet" style="opacity:0;fill:#FFFFFF;" width="64" height="64"/>
+	<g style="opacity:0.6;">
+		<path style="fill:#FFFFFF;" d="M47.907,56H16.092C13.836,56,12,54.164,12,51.907V12.092C12,9.836,13.836,8,16.092,8h19.859
+			c1.966,0,4.595,1.091,5.983,2.484l7.591,7.62C50.913,19.496,52,22.127,52,24.092v27.815C52,54.164,50.164,56,47.907,56z
+			 M16.092,10C14.938,10,14,10.938,14,12.092v39.815C14,53.062,14.938,54,16.092,54h31.815C49.062,54,50,53.062,50,51.907V24.092
+			c0-1.427-0.884-3.566-1.891-4.577l-7.591-7.619C39.511,10.886,37.377,10,35.951,10H16.092z"/>
+	</g>
+	<path style="fill:#FFFFFF;" d="M40.865,21h10.179l-12-12v9.988C39.044,19.913,39.922,21,40.865,21z"/>
+	<g>
+		<rect x="20.973" y="31" style="fill:#BAD692;" width="22" height="2"/>
+		<rect x="20.973" y="38" style="fill:#BAD692;" width="22" height="2"/>
+		<path style="fill:#BAD692;" d="M43.973,47h-24V24h24V47z M21.973,45h20V26h-20V45z"/>
+		<rect x="26.973" y="25" style="fill:#BAD692;" width="2" height="20.25"/>
+	</g>
+</g>
+</svg>

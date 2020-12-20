@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g id="icon-m-file-other">
+	<rect id="icon-m-file-other_1_" style="opacity:0;fill:#000000;" width="64" height="64"/>
+	<g style="opacity:0.6;">
+		<path style="fill:#000000;" d="M47.907,56H16.092C13.836,56,12,54.164,12,51.907V12.092C12,9.836,13.836,8,16.092,8h19.859
+			c1.966,0,4.595,1.091,5.983,2.484l7.591,7.62C50.913,19.496,52,22.127,52,24.092v27.815C52,54.164,50.164,56,47.907,56z
+			 M16.092,10C14.938,10,14,10.938,14,12.092v39.815C14,53.062,14.938,54,16.092,54h31.815C49.062,54,50,53.062,50,51.907V24.092
+			c0-1.427-0.884-3.566-1.891-4.577l-7.591-7.619C39.511,10.886,37.377,10,35.951,10H16.092z"/>
+		<path style="fill:none;stroke:#000000;stroke-width:2"
+			d="m 38.888849,9.659394 v 9.289818 c 0,0.925 0.878,2.012 1.821,2.012 h 9.480818"/>
+	</g>
+	<g>
+		<polygon style="fill:#000000;" points="33,35.943 25.39,33.537 25.993,31.63 31,33.213 31,28 33,28 		"/>
+		<polygon style="fill:#000000;" points="35.088,40.584 32,36.291 28.913,40.584 27.289,39.416 32,32.865 36.711,39.416 		"/>
+		
+		<rect x="34.154" y="30.273" transform="matrix(0.3014 0.9535 -0.9535 0.3014 56.5781 -10.0597)" style="fill:#000000;" width="1.999" height="6.616"/>
+	</g>
+</g>
+</svg>
