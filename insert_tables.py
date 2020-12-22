@@ -19,7 +19,7 @@ def parse_arguments():
     get_cwd = os.getcwd()
 
     parser = argparse.ArgumentParser(description='Create html page with tables')
-    parser.add_argument('-i', '--icons_dir', type=str, default=os.path.join(get_cwd, 'icons'),
+    parser.add_argument('-i', '--icons_dir', type=str, default='icons',
                         help='Path to directory with icons')
     parser.add_argument('-t', '--template', type=str, default=os.path.join(get_cwd, 'template.html'),
                         help='Path to HTML template file')
@@ -67,7 +67,7 @@ def create_table_with_files(file_paths, indent=0, img_class=None, columns=1):
         img_cell = img_tag.format(file_path)
         image_cell = cell_tag.format(img_cell)
 
-        cells += name_cell + image_cell
+        cells += image_cell + name_cell
 
         counter_columns += 1
 
